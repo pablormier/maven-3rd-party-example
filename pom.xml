@@ -20,7 +20,7 @@
         <!-- Dependencia alojada en el repositorio Nexus que queremos usar -->
         <dependency>
             <groupId>es.usc.citius.common</groupId>
-            <artifactId>java-parallel-util</artifactId>
+            <artifactId>parallel-loops</artifactId>
             <version>1.0</version>
         </dependency>
 
